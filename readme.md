@@ -1,6 +1,6 @@
 # My Own Development
 
-##### Roadmap of further exploration and continued education
+### Roadmap of further exploration and continued education
 
 #### By Cheryl Frankenfield, 1/26/18
 
