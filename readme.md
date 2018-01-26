@@ -22,15 +22,20 @@ I'd like to be more proficient with this as it's such an essential skill for any
   * https://newsapi.org/
   I found this API two weeks ago in class and would like to use it to practice making calls and building some type of news-based project, possibly getting a head start this afternoon. With my background in journalism, I am a news geek who is passionate about what I could develop here, plus it'll give me the extra practice at the same time.
 
-#### 2. Unit Tests / TDD
+#### 2. Unit Tests / TDD / BDD
 I've read/heard how important it is for developers to test their code before going to QA and how this practice may be overlooked quite often. I'd like to learn better practices around how to excel with TDD.
   How?
   --------
-  *
-  *
+  * Team Treehouse
+  https://teamtreehouse.com/library/javascript-unit-testing
+  * https://github.com/mawrkus/js-unit-testing-guide
+  * https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3
+  * https://codeburst.io/testing-your-javascript-code-95c171c71647
 
 #### 3. Technical Interview Prep
 The whiteboarding process and successfully navigating a technical interview is on my practice list for the next couple months.
+  How?
+  --------
   * Flash cards
   I have been using a flash card service called Anki, which I highly recommend as it rates knowledge of the card topic and the frequency you need to see cards to solidify knowledge. I have a deck of frequently-asked interview questions that I'll plan to spend some time with today, with the goal of building this into a habit over the next couple months.
 
@@ -42,6 +47,8 @@ The whiteboarding process and successfully navigating a technical interview is o
 
 #### 4. Vanilla JavaScript / Logic
 Upon coming to Epicodus, I didn't have any Javascript experience, so continued practice in building apps and doing exercises in JavaScript without jQuery is important to keep up growth. Also, reading more about data structures, algorithms and DRY code is one of my continued goals.
+  How?
+  --------
   * Wesbos.com - Javascript 30 in 30 days
   I signed up for this free tutorial site a couple weeks ago and did the first three lessons. Keeping up with this was difficult with learning Angular and APIs this month, but I attempt to do one tutorial and add it to my GitHub this afternoon.
 
@@ -53,21 +60,15 @@ High Priority
 --------  
 1. Redux
 2. ReactNative
-3.
 
-Medium Priority
+General
 --------
-1.
-2.
-3.
-
-General Priority
---------
-1.
-2.
-3.
+1. Vue.js
+2. Gatsby.js
+3. https://facebook.github.io/immutable-js/
 
 ## Resources / Newsletters / People to follow on Twitter / Podcasts
-1.
-2.
-3.
+1. Dan Abramov, Eric Elliot
+2. CodeNewbie, Egghead.io, The Changelog, Ruby Rogues podcasts
+
+## Summary
