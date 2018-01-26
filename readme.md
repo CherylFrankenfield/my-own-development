@@ -50,7 +50,9 @@ Upon coming to Epicodus, I didn't have any Javascript experience, so continued p
   How?
   --------
   * Wesbos.com - Javascript 30 in 30 days
-  I signed up for this free tutorial site a couple weeks ago and did the first three lessons. Keeping up with this was difficult with learning Angular and APIs this month, but I attempt to do one tutorial and add it to my GitHub this afternoon.
+  I signed up for this free tutorial site a couple weeks ago and did the first three lessons. Keeping up with this was difficult with learning Angular and APIs this month, but I worked on the next one in my queue about JS methods practice using reduce, map, filter and sort. Specifically, today I learned you can console.table() to the DOM and it organizes data much cleaner! It was also great to use ES6 syntax here (I'll be looking up spread operator, which was mentioned) and Array.from().
+  See Git repo here: https://github.com/CherylFrankenfield/JS-array-methods.git
+  https://davidwalsh.name/spread-operator
 
   * CodeNewbie / HackerRank
   I recently discovered these resources this week and will add them to my arsenal for continued learning.
